@@ -3065,8 +3065,7 @@ hr {
 
 .slider-area,
 .slider-area2 {
-	background: rgb(122,114,255);
-background: linear-gradient(0deg, rgba(122,114,255,1) 0%, rgba(229,104,255,1) 100%);
+	background:url(../img/bg.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center
@@ -7344,8 +7343,8 @@ padding: 73px 0px 73px;
     font-style: "Poppins", sans-serif;
 }
 .bgimg{
-    width: 800px;
-    height: 550px;
+    width: 150px;
+    height: 160px;
     margin-left: px;
     z-index: 999;
     margin-top: 00px;
