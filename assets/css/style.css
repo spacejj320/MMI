@@ -3065,7 +3065,7 @@ hr {
 
 .slider-area,
 .slider-area2 {
-	
+	background:url(../img/bg.jpg)!important;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center
